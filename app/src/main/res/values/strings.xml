@@ -1,0 +1,54 @@
+<resources>
+    <string name="app_name">PipeLiningExample</string>
+    <string name="server_prompt">Choose a Server</string>
+    <string name="pipeline_prompt">Choose PipeLining Level</string>
+    <string name="filecount_prompt">Choose File Count</string>
+    <string name="foldername_prompt">Choose Folder</string>
+
+    <string-array name="server_arrays">
+        <item>54.206.62.63</item>
+        <item>129.114.64.12</item>
+        <item>128.205.39.106</item>
+        <item>129.114.110.216</item>
+        <item>54.206.125.219</item>
+        <item>129.114.110.34</item>
+        <item>52.59.243.137</item>
+    </string-array>
+    <string-array name="pipeline_arrays">
+        <item>1</item>
+        <item>2</item>
+        <item>4</item>
+        <item>8</item>
+        <item>16</item>
+        <item>32</item>
+        <item>64</item>
+        <item>128</item>
+    </string-array>
+    <string-array name="filecount_arrays">
+        <item>2</item>
+        <item>4</item>
+        <item>8</item>
+        <item>16</item>
+        <item>32</item>
+        <item>64</item>
+        <item>128</item>
+        <item>256</item>
+        <item>512</item>
+        <item>1024</item>
+        <item>2048</item>
+    </string-array>
+    <string-array name="foldername_arrays">
+        <item>/wifiHtml</item>
+        <item>/wifiImage</item>
+        <item>/wifiVideo</item>
+        <item>/10K</item>
+        <item>/32GB</item>
+        <item>/100M</item>
+        <item>/128K</item>
+    </string-array>
+    <string-array name="code_arrays">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+    </string-array>
+</resources>
